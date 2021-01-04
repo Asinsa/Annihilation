@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Annihilation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Annihilation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
